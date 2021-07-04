@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/Logo.svg" width="200" style={{ marginBottom: 50 }} />
+        <Image src="/Logo.svg" width="200" height="100" />
 
         <h1 style={{ margin: 0 }}>Coming Soon</h1>
         <p>A great platform for local artisans and service providers</p>
